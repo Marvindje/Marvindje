@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvindje&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Marvin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Marvindje)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ---
