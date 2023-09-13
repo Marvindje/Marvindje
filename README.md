@@ -14,13 +14,6 @@
 
 🔜 `TypeScript` `Three.js`
 
----
-
-![Marvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marvindje&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marvindje&layout=compact&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 📬 Let's Connect
 
