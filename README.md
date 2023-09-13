@@ -1,6 +1,6 @@
  👋 Hello ! I'm Marvin 
 
-🌟 **Eager Developer Striving for Excellence and Innovation** 🌟
+🌟 Eager Developer Striving for Excellence and Innovation 🌟
 
 ---
 
